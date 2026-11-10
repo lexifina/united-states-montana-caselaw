@@ -2262,7 +2262,7 @@ reference	path
 1,774	decisions/montana-supreme-court/1904/29-Mont-576--cap-8588556.md
 1,775	decisions/montana-supreme-court/1902/26-Mont-412.md
 1,776	decisions/montana-supreme-court/1904/29-Mont-395.md
-1,777	decisions/montana-supreme-court/1904/29-Mont-396.md
+1,777	decisions/montana-supreme-court/1904/29-Mont-395.md
 1,778	decisions/montana-supreme-court/1902/26-Mont-274.md
 1,779	decisions/montana-supreme-court/1902/26-Mont-275.md
 1,780	decisions/montana-supreme-court/1904/30-Mont-148.md
@@ -7282,7 +7282,6 @@ reference	path
 12486	decisions/montana-supreme-court/1973/163-Mont-47.md
 12487	decisions/montana-supreme-court/1974/164-Mont-206.md
 12488	decisions/montana-supreme-court/1973/162-Mont-525.md
-12488	decisions/montana-supreme-court/1973/164-Mont-538.md
 12489	decisions/montana-supreme-court/1973/162-Mont-526.md
 1249	decisions/montana-supreme-court/1900/24-Mont-501.md
 12491	decisions/montana-supreme-court/1973/163-Mont-12.md
@@ -13316,7 +13315,7 @@ reference	path
 16 Mont. 570	decisions/montana-supreme-court/1895/16-Mont-570.md
 16 Mont. 574	decisions/montana-supreme-court/1895/16-Mont-574.md
 16 Mont. 580	decisions/montana-supreme-court/1895/16-Mont-580.md
-16 Mont. 581	decisions/montana-supreme-court/1895/16-Mont-581.md
+16 Mont. 581	decisions/montana-supreme-court/1895/16-Mont-580.md
 16 Mont. 582	decisions/montana-supreme-court/1895/16-Mont-582.md
 16 Mont. 63	decisions/montana-supreme-court/1895/16-Mont-63.md
 16 Mont. 65	decisions/montana-supreme-court/1895/16-Mont-65.md
@@ -13892,8 +13891,8 @@ reference	path
 164 Mont. 536	decisions/montana-supreme-court/1974/164-Mont-536--cap-5258818.md
 164 Mont. 536	decisions/montana-supreme-court/1974/164-Mont-536.md
 164 Mont. 537	decisions/montana-supreme-court/1974/164-Mont-537.md
+164 Mont. 538	decisions/montana-supreme-court/1973/162-Mont-525.md
 164 Mont. 538	decisions/montana-supreme-court/1973/164-Mont-538--cap-5259111.md
-164 Mont. 538	decisions/montana-supreme-court/1973/164-Mont-538.md
 164 Mont. 539	decisions/montana-supreme-court/1974/164-Mont-539.md
 164 Mont. 540	decisions/montana-supreme-court/1974/164-Mont-540.md
 164 Mont. 541	decisions/montana-supreme-court/1974/164-Mont-541--cap-5258908.md
@@ -34710,7 +34709,7 @@ reference	path
 29 Mont. 38	decisions/montana-supreme-court/1903/29-Mont-38.md
 29 Mont. 390	decisions/montana-supreme-court/1904/29-Mont-390.md
 29 Mont. 395	decisions/montana-supreme-court/1904/29-Mont-395.md
-29 Mont. 396	decisions/montana-supreme-court/1904/29-Mont-396.md
+29 Mont. 396	decisions/montana-supreme-court/1904/29-Mont-395.md
 29 Mont. 397	decisions/montana-supreme-court/1904/29-Mont-397.md
 29 Mont. 415	decisions/montana-supreme-court/1904/29-Mont-415.md
 29 Mont. 428	decisions/montana-supreme-court/1904/29-Mont-428.md
@@ -53082,7 +53081,7 @@ reference	path
 522 P.2d 760	decisions/montana-supreme-court/1974/164-Mont-540.md
 522 P.2d 87	decisions/montana-supreme-court/1974/164-Mont-319.md
 522 P.2d 91	decisions/montana-supreme-court/1973/164-Mont-538--cap-5259111.md
-522 P.2d 92	decisions/montana-supreme-court/1973/164-Mont-538.md
+522 P.2d 92	decisions/montana-supreme-court/1973/162-Mont-525.md
 522 P.2d 92	decisions/montana-supreme-court/1974/164-Mont-330.md
 523 P.2d 1379	decisions/montana-supreme-court/1974/164-Mont-402.md
 523 P.2d 1386	decisions/montana-supreme-court/1974/164-Mont-371.md
@@ -99382,7 +99381,7 @@ cap-4373682	decisions/montana-supreme-court/1895/16-Mont-274.md
 cap-4373697	decisions/montana-supreme-court/1895/16-Mont-16.md
 cap-4373713	decisions/montana-supreme-court/1895/16-Mont-297.md
 cap-4373730	decisions/montana-supreme-court/1895/16-Mont-211.md
-cap-4373744	decisions/montana-supreme-court/1895/16-Mont-581.md
+cap-4373744	decisions/montana-supreme-court/1895/16-Mont-580.md
 cap-4373758	decisions/montana-supreme-court/1895/16-Mont-65.md
 cap-4373769	decisions/montana-supreme-court/1895/16-Mont-267.md
 cap-4373786	decisions/montana-supreme-court/1895/16-Mont-309.md
@@ -106587,7 +106586,7 @@ cap-5259353	decisions/montana-supreme-court/1974/164-Mont-158.md
 cap-5259380	decisions/montana-supreme-court/1974/164-Mont-237.md
 cap-5259407	decisions/montana-supreme-court/1974/164-Mont-431.md
 cap-5259423	decisions/montana-supreme-court/1974/164-Mont-543--cap-5259423.md
-cap-5259453	decisions/montana-supreme-court/1973/164-Mont-538.md
+cap-5259453	decisions/montana-supreme-court/1973/162-Mont-525.md
 cap-5259489	decisions/montana-supreme-court/1974/164-Mont-344.md
 cap-5259520	decisions/montana-supreme-court/1974/164-Mont-451.md
 cap-5259543	decisions/montana-supreme-court/1974/164-Mont-30.md
@@ -111551,7 +111550,7 @@ cap-8587901	decisions/montana-supreme-court/1895/15-Mont-460.md
 cap-8587902	decisions/montana-supreme-court/1896/18-Mont-432.md
 cap-8587905	decisions/montana-supreme-court/1912/45-Mont-494.md
 cap-8587906	decisions/montana-supreme-court/1915/50-Mont-481.md
-cap-8587907	decisions/montana-supreme-court/1904/29-Mont-396.md
+cap-8587907	decisions/montana-supreme-court/1904/29-Mont-395.md
 cap-8587909	decisions/montana-supreme-court/1896/18-Mont-440.md
 cap-8587910	decisions/montana-supreme-court/1890/9-Mont-276.md
 cap-8587911	decisions/montana-supreme-court/1903/28-Mont-366.md
